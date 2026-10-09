@@ -13,9 +13,10 @@ The project used a balanced dataset of 1,530 plant leaf images from Kaggle.
 
 ## My Contributions
 
-* Developed a Python-based interactive frontend hosted on Hugging Face Spaces.
-* Analyzed and augmented the plant leaf image dataset as part of the team project.
-* Participated in model evaluation, including confusion matrix analysis, prediction confidence analysis, and review of misclassified images.
+* Analyzed the dataset to check class balance across healthy, powdery mildew, and rust categories.
+* Implemented a custom PyTorch dataset class to load plant leaf images and their corresponding labels for model training.
+* Reviewed misclassified images to help evaluate model performance.
+* Developed a Python-based interactive frontend hosted on Hugging Face Spaces, allowing users to upload leaf images and view classification predictions.
 
 ## Technologies
 * Python
