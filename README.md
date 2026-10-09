@@ -25,6 +25,11 @@ The project used a balanced dataset of 1,530 plant leaf images from Kaggle.
 * Hugging Face Spaces
 * Google Colab
 
+## Model File
+
+The trained model checkpoint is hosted with the live demo on Hugging Face Spaces. The application requires this checkpoint to run predictions locally.
+
+
 
 ## Live Demo
 
